@@ -1,0 +1,27 @@
+.navbar{
+    background-color:#D2691E ;
+    position: fixed;
+     width: 100%;
+}
+
+.quem-somos{
+    background-color:#F4A460;
+
+}
+
+.parceiros{
+    background-color:#F5DEB3;
+
+}
+
+
+.margin{
+    padding-top: 80px;
+    padding-bottom: 10px;
+
+}
+
+.rodape{
+    background-color:#B8860B;
+
+}
